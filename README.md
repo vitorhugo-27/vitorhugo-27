@@ -4,4 +4,4 @@
 - Focado em Python, HTML e CSS
 - Me preparando pro mercado de trabalho
 - Contato: vcastrodifraia@icloud.com
-- 
+  
